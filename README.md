@@ -27,6 +27,7 @@ State transitions are done through request: a state sets *next_state, and the ap
 
 ## Other Notable Projects
 [Raycasted first person shooter](https://github.com/NavLot26/raycast_fps)
+
 [Software 3D renderer](https://github.com/NavLot26/software_3d_renderer)
 
 

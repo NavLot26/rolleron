@@ -24,6 +24,13 @@ The app then dispatches these function calls based on the current state and othe
 
 State transitions are done through request: a state sets *next_state, and the app performs the transitions centrally. This keeps lifetime and ownerships rules explicit and responsibilities localized. 
 
+
+## Other Notable Projects
+[Raycasted first person shooter](https://github.com/NavLot26/raycast_fps)
+[Software 3D renderer](https://github.com/NavLot26/software_3d_renderer)
+
+
+
 ## Old versions
 I did not use git when creating this project, but old versions of the code are stored in the archive folder. 
 

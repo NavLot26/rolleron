@@ -1,0 +1,2 @@
+CompileFlags:
+    Add: [-I/opt/homebrew/include/SDL2] # show clangd where the include files are 

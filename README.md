@@ -6,7 +6,7 @@ I will probably upload it to itch or some other website at some point with a pos
 ## Demos
 [Game play Demo](https://drive.google.com/file/d/1VXs0bzT8swTN7RwBkQo1q76bbU6oC_HO/view?usp=sharing)
 
-[Menu and Editor Demo](mhttps://drive.google.com/file/d/10NAiwbbfudi8Ji8Lx61_hL0jfKZ1M3-c/view?usp=sharing)
+[Menu and Editor Demo](https://drive.google.com/file/d/10NAiwbbfudi8Ji8Lx61_hL0jfKZ1M3-c/view?usp=sharing)
 
 
 ## Tech stack 
